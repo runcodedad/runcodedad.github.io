@@ -1,0 +1,8 @@
+baseURL = 'https://runcodedad.github.io/'
+languageCode = 'en-us'
+title = 'RunCodeDad Blog'
+theme = 'ananke'
+
+[params]
+  featured_image = '/images/gohugo-default-sample-hero-image.jpg'
+  description = "A personal coding blog sharing insights, tutorials, and experiences."
